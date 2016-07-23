@@ -3,6 +3,4 @@ This application was used for Sitepoint's article [Getting Started with Undersco
 
 It uses [Underscore](http://underscorejs.org/), [jQuery](https://jquery.com/) and [Spotify's API](https://developer.spotify.com/web-api/).
 
-It's a simply application which displays a list of articles and allows the user to filter by their genre.
-
-**Update**: When clicking on an artist his albums are loaded.
+The application requests artists from Spotify and renders them. The app also gets the genres from those artists and allows filtering by them.
